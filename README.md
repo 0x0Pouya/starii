@@ -1,2 +1,2 @@
 # starii
-Testing new project
+Test new project
